@@ -1,0 +1,6 @@
+#Mon Feb 05 14:26:45 BRT 2024
+__DEFAULT__=false
+expression=build exe
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
